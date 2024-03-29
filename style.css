@@ -1,0 +1,28 @@
+.box-wrapper{
+    display: flex;
+    max-width: 600px;
+    /* height: 400px; */
+    background-color: red;
+    /* padding: 20px; */
+    /* justify-content: space-between; */
+
+    /* elementlar orasidan joy ochish */
+    /* space-beetwen */
+    /* space-around */
+    /* space-evenly */
+
+    /* align-items: flex-end;
+    justify-content: center;
+    flex-direction: column; */
+    flex-wrap: wrap;
+    gap: 10px 20px;
+
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    font-size: 30px;
+    background-color: dodgerblue;
+}
